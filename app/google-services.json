@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037731992669",
+    "firebase_url": "https://mask-detector-xtrim-default-rtdb.firebaseio.com",
+    "project_id": "mask-detector-xtrim",
+    "storage_bucket": "mask-detector-xtrim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037731992669:android:33f58423d929327dcea9b4",
+        "android_client_info": {
+          "package_name": "com.example.maskdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037731992669-uqtjnnu5qe6s7jkc3ginvscg2psqjb6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFcJlcimzG6Y6g1qIJ9En6jxIhLUzWKmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037731992669-uqtjnnu5qe6s7jkc3ginvscg2psqjb6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

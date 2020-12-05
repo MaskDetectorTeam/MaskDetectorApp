@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.maskdetector.MainActivity">
+    <item
+        android:id="@+id/infosButton"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Item"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>
